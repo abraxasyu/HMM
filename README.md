@@ -1,4 +1,4 @@
-profile HMM
+profile HMM (click on vHMM.ipynb)
 
 used for multiple sequence alignment in bioinformatics (see: HMMER)
 
